@@ -1,0 +1,10 @@
+---
+title: "News"
+description: "Updates from the Tuck Lab"
+---
+
+Lab news, papers, awards, and opportunities will appear here.
+
+*The existing Wix news archive will be preserved and moved here after review.*
+
+Future updates can be written in Markdown and published through GitHub.
