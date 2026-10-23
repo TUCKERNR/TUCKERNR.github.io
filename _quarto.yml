@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tuck Lab"
+  site-url: "https://tuckernr.github.io"
+  description: "Human cardiac genetics and functional genomics"
+  navbar:
+    logo-alt: "Tuck Lab"
+    left:
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: News
+        href: news.qmd
+      - text: Join / Contact
+        href: contact.qmd
+  page-footer:
+    left: "© Tuck Lab · SUNY Upstate Medical University"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+  search: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: "Inter, system-ui, sans-serif"
+
+execute:
+  freeze: auto
