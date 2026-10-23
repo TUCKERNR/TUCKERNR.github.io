@@ -1,0 +1,10 @@
+---
+title: "Publications"
+description: "Publications from the Tuck Lab"
+---
+
+Our publications span human cardiac genetics, single-cell genomics, and functional mechanisms of cardiovascular disease.
+
+**Full publication list coming during content migration.** We will import verified citations and DOI links rather than manually recreating bibliographic details.
+
+In the meantime, visit [Google Scholar](https://scholar.google.com/citations?user=ZVR6v_MAAAAJ&hl=en).
