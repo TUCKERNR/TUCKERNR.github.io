@@ -1,0 +1,18 @@
+---
+title: "People"
+description: "People at the Tuck Lab"
+---
+
+## Our team
+
+The Tuck Lab brings together experimental and computational scientists working at the intersection of cardiovascular biology and genomics.
+
+**Nathan R. Tucker, PhD**  
+Principal Investigator · Associate Professor of Pharmacology  
+SUNY Upstate Medical University
+
+*Team portraits, current members, roles, and biographies will be migrated from the existing lab website after verification.*
+
+## Alumni
+
+We will preserve the existing alumni archive during migration.
