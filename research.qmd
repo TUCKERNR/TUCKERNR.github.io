@@ -1,0 +1,22 @@
+---
+title: "Research"
+description: "Research programs at the Tuck Lab"
+---
+
+Our research brings together human genetic variation, molecular profiling, and experimental systems to understand cardiac disease.
+
+## Cardiac genetics and arrhythmia
+
+We investigate how inherited variants influence cardiac biology, including cell-type-specific gene regulation, chromatin interactions, and mechanisms contributing to arrhythmia risk.
+
+## Heart failure and human tissue genomics
+
+We study human cardiac tissue to identify molecular programs associated with heart failure and cardiometabolic disease. Single-nucleus and spatial approaches help resolve the distinct contributions of cardiomyocytes and non-myocyte populations.
+
+## Functional genomics and disease mechanisms
+
+We use genome perturbation, long-read sequencing, and human cellular models to test causal hypotheses, including how RNA processing and regulatory variation influence disease phenotypes.
+
+::: {.callout-note}
+Research summaries are provisional and will be refined against approved lab descriptions, figures, and publications from the existing website.
+:::
