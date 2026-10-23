@@ -1,0 +1,50 @@
+---
+title: "Tuck Lab"
+page-layout: full
+---
+
+::: {.hero}
+<div class="eyebrow">SUNY Upstate Medical University · Pharmacology</div>
+
+# Decoding the genetics of the human heart.
+
+<p class="lede">We combine human genetics, functional genomics, and experimental models to understand how molecular variation shapes cardiac disease—and to uncover new opportunities for intervention.</p>
+
+[Explore our research](research.qmd){.action-link}
+:::
+
+<div class="section-kicker">What we study</div>
+
+## From genetic variation to mechanism
+
+<div class="research-grid">
+<div class="research-card">
+<div class="eyebrow">01 · Cardiac genetics</div>
+<h3>Arrhythmia and inherited risk</h3>
+<p>Connecting human genetic variation to cell-specific regulation and cardiac electrophysiology.</p>
+<a href="research.qmd#cardiac-genetics-and-arrhythmia">Learn more →</a>
+</div>
+<div class="research-card">
+<div class="eyebrow">02 · Human disease</div>
+<h3>Heart failure biology</h3>
+<p>Mapping molecular and cellular changes across the human heart in health and disease.</p>
+<a href="research.qmd#heart-failure-and-human-tissue-genomics">Learn more →</a>
+</div>
+<div class="research-card">
+<div class="eyebrow">03 · Functional discovery</div>
+<h3>Functional genomics</h3>
+<p>Testing causal mechanisms through perturbation, genome regulation, and cellular models.</p>
+<a href="research.qmd#functional-genomics-and-disease-mechanisms">Learn more →</a>
+</div>
+</div>
+
+## Our approach
+
+We work across human cardiac tissues, single-cell and spatial genomics, long-read sequencing, chromatin architecture, and experimental perturbation to connect genetic association with biological mechanism.
+
+[Meet the team](people.qmd) · [Explore publications](publications.qmd) · [Join the lab](contact.qmd)
+
+::: {.callout-note}
+## Prototype website
+This is a first-pass design. Team biographies, images, complete publications, and the Wix news archive will be migrated and verified before we switch tucklab.org.
+:::
